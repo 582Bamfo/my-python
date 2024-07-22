@@ -9,7 +9,7 @@ print(planet1[7:11])
 print(planet1[11:14])
 
 #slicing a tuple
-devops = ("linux","vagrant", "bash script""aws","jenkins","python")
+devops = ("linux","vagrant", "bash script","aws","jenkins","python")
 print(devops[0])
 print(devops[1:3])
 print(devops[-1])

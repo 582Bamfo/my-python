@@ -22,3 +22,19 @@ elif x==31:
     print("x is equal to 31")
 else:
     print("x is greater than 30")
+
+import time
+n = "devops"
+for i in n:
+    if i == "m":
+        print("this is m")
+ #       break
+    elif i !="s":
+        print("the character is", i)
+        time.sleep(1)
+
+    else:
+        print("end of code")
+
+        
+    

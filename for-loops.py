@@ -9,5 +9,5 @@ for z in surname:
 #Example 2
 family = ("bamf","linda","yvette","kayla","lauren")
 for f in family:
-    print(f"we have a good family {f} is a good member")
+    print(f"we have a good family {f} is a active member")
     time.sleep(1)

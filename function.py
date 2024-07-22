@@ -22,6 +22,18 @@ total=(2**3)
 print(total)
 
 
+dev = expt(3,3)
+print(dev)
+
+
+# def dan(x):
+#     x=10
+#     if x !=10:
+#         print("not equal to 10")
+#     return(x)
+
+
+# print(dan(x=6))
 
 import time
 

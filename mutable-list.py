@@ -23,4 +23,6 @@ print(i)"""
 i = ["devop", "aws", "ansible", "terraform", "python"," linux"]
 i.pop(3)
 print(i)
+i.append("jenkins")
+print(i)
 

@@ -1,1 +1,2 @@
-print(len()"hello" + " " "bamfo")
+print("hello" + " " "bamfo")
+print(len("hello" + " " "bamfo"))
